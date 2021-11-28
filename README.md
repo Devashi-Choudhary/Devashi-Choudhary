@@ -29,6 +29,9 @@ Artificial Intelligence is something which is cool stuff that coincides with my 
 - 😎 I love exploring AI projects to collabrate it with creativity, most of cool stuff are available [here](https://www.youtube.com/watch?v=CNzuO1nFK2M&list=PLLZ6osVVFkyXPXC2pMJrqR-RjvCAR82S5).
 - 👯 I like doing paper craft and drawing, most of them are available [here](https://www.instagram.com/devashi_25/reels/?hl=en)
 
+
+
+
 ### Languages and Tools
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -70,5 +73,7 @@ Artificial Intelligence is something which is cool stuff that coincides with my 
 </details>  
 
 
-   
+#### <p align="center"> Thank-You for reading, Share your ❤️ by starring some of repositories. </p>
+
+
 
