@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1T2KSLQNQNEhvnLHY5fnsA)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devashi882@gmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devashi_25/?hl=en) 
-[![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.youtube.com/watchv=1dCSVRR9w6g&list=PLLZ6osVVFkyUMcdQ0I03ClL2TyyDRcIi8)
+[![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.youtube.com/watch?v=1dCSVRR9w6g&list=PLLZ6osVVFkyUMcdQ0I03ClL2TyyDRcIi8)
 
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=Devashi-Choudhary&color=blueviolet)
