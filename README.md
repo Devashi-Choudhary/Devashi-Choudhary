@@ -10,7 +10,7 @@
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=Devashi-Choudhary&color=blueviolet)
 
-Artificial Intelligence is something which is cool stuff that coincides with my passion and hobby. Enthusiastic and Motivated, I like to have my creative juice flowing into the stream to complete it with the right flavour of Hard-work & Dedication and also, save some time on my calendar for creativity and photography.
+Artificial Intelligence is a cool stuff that coincides with my passion and hobby. Enthusiastic and Motivated, I like to have my creative juice flowing into the stream to complete it with the right flavour of Hard-work & Dedication and also, save some time on my calendar for creativity and photography.
 
 
 <img align="right" width="400" height="250" src="https://drive.google.com/uc?export=view&id=1SBE9oKK4n9OzssC-RW0Z6xdFH_4M9rWJ">
@@ -20,14 +20,14 @@ Artificial Intelligence is something which is cool stuff that coincides with my 
 - 💼 I'm currently working as a Data Scientist for [NetApp](https://www.netapp.com/).
 - 🌱 I’m currently learning Advanced Computer Vision and Deep Learning Algorithms.
 - ⭐ Published [Research Paper](https://ieeexplore.ieee.org/abstract/document/9232510?casa_token=-3YjOWQ8QfYAAAAA:3rQLIjZ59fCJ__xcWFN0HSD_2d4VGj6j7UIZ65oW3oDryAnTeqVe3OKw7jcBmLgoUIhjN4HbLLI) in [BigMM Conference](http://bigmm.midas.iiitd.edu.in/).
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Devashi-Choudhary/Devashi-Choudhary)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Devashi-Choudhary/Devashi-Choudhary).
 - ⚡ Fun fact: I always think that Life is a Bollywood Movie.
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/devashi-choudhary-84677b109), [Gmail](devashi882@gmail.com)!
 
 ### My Favorites:
 
 - 😎 I love exploring AI projects to collabrate it with creativity, most of cool stuff are available [here](https://www.youtube.com/watch?v=CNzuO1nFK2M&list=PLLZ6osVVFkyXPXC2pMJrqR-RjvCAR82S5).
-- 👯 I like doing paper craft and drawing, most of them are available [here](https://www.instagram.com/devashi_25/reels/?hl=en)
+- 👯 I like doing paper craft and drawing, most of them are available [here](https://www.instagram.com/devashi_25/reels/?hl=en).
 
 
 
@@ -73,7 +73,7 @@ Artificial Intelligence is something which is cool stuff that coincides with my 
 </details>  
 
 
-#### <p align="center"> Thank-You for reading, Share your ❤️ by starring some of repositories. </p>
+#### <p align="center"> Thank-You for reading, Share your ❤️ by starring some of repositories! </p>
 
 
 
