@@ -8,7 +8,7 @@
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devashi_25/?hl=en)  
 
 
-### Glad to see you here! 
+### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=Devashi-Choudhary&color=blueviolet)
 
 <p align="Right">
   <img src="https://drive.google.com/uc?export=view&id=1SBE9oKK4n9OzssC-RW0Z6xdFH_4M9rWJ" width="300" height="200">
