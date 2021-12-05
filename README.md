@@ -10,8 +10,7 @@
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=Devashi-Choudhary&color=blueviolet)
 
-Artificial Intelligence is a cool stuff that coincides with my passion and hobby. Enthusiastic and Motivated, I like to have my creative juice flowing into the stream to complete it with the right flavour of Hard-work & Dedication and also, save some time on my calendar for creativity and photography.
-
+Working on Artificial Intelligence projects gets my creative juices flowing and aligns with my other passions: art and photography.
 
 <img align="right" width="400" height="250" src="https://drive.google.com/uc?export=view&id=1SBE9oKK4n9OzssC-RW0Z6xdFH_4M9rWJ">
 
@@ -26,7 +25,7 @@ Artificial Intelligence is a cool stuff that coincides with my passion and hobby
 
 ### My Favorites:
 
-- 😎 I love exploring AI projects to collabrate it with creativity, most of cool stuff are available [here](https://www.youtube.com/watch?v=CNzuO1nFK2M&list=PLLZ6osVVFkyXPXC2pMJrqR-RjvCAR82S5).
+- 😎 I love combining AI with puzzles, drawings, and other visual media. You can find examples of my work [here](https://www.youtube.com/watch?v=CNzuO1nFK2M&list=PLLZ6osVVFkyXPXC2pMJrqR-RjvCAR82S5).
 - 👯 I like doing paper craft and drawing, most of them are available [here](https://www.instagram.com/devashi_25/reels/?hl=en).
 
 
