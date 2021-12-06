@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/devashi-choudhary-84677b109)
 [![image](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://devashi-choudhary.medium.com/)
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1T2KSLQNQNEhvnLHY5fnsA)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](devashi882@gmail.com)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devashi882@gmail.com)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devashi_25/?hl=en) 
 [![image](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.youtube.com/watch?v=1dCSVRR9w6g&list=PLLZ6osVVFkyUMcdQ0I03ClL2TyyDRcIi8)
 
@@ -21,7 +21,7 @@ Working on Artificial Intelligence projects gets my creative juices flowing and 
 - ⭐ Published [Research Paper](https://ieeexplore.ieee.org/abstract/document/9232510?casa_token=-3YjOWQ8QfYAAAAA:3rQLIjZ59fCJ__xcWFN0HSD_2d4VGj6j7UIZ65oW3oDryAnTeqVe3OKw7jcBmLgoUIhjN4HbLLI) in [BigMM Conference](http://bigmm.midas.iiitd.edu.in/).
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Devashi-Choudhary/Devashi-Choudhary).
 - ⚡ Fun fact: I always think that Life is a Bollywood Movie.
-- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/devashi-choudhary-84677b109), [Gmail](devashi882@gmail.com)!
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/devashi-choudhary-84677b109), [Gmail](mailto:devashi882@gmail.com)!
 
 ### My Favorites:
 
