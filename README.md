@@ -12,7 +12,7 @@
 
 Working on Artificial Intelligence projects gets my creative juices flowing and aligns with my other passions: art and photography.
 
-Here is my [Geeky Information](https://devashi-choudhary.github.io/Resume/).
+Here is, update about my [Professional Career](https://devashi-choudhary.github.io/Resume/).
 
 <img align="right" width="400" height="250" src="https://drive.google.com/uc?export=view&id=1SBE9oKK4n9OzssC-RW0Z6xdFH_4M9rWJ">
 
